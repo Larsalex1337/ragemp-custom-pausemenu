@@ -45,7 +45,7 @@
 
 ## README 📒
 
-[README](./README) (EN)
+[README](https://github.com/Larsalex1337/ragemp-custom-pausemenu/blob/main/README.MD) (EN)
 
 ## Лицензии 📝
 
