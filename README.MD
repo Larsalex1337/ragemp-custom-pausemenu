@@ -46,7 +46,7 @@ Using the game file **pausemenu.xml** to remove unnecessary/faulty items from th
 
 ## README 📒
 
-[README](./README_RU) (RU)
+[README](https://github.com/Larsalex1337/ragemp-custom-pausemenu/blob/main/README_RU.MD) (RU)
 
 ## LICENSES 📝
 
